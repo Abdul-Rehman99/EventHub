@@ -1,4 +1,5 @@
 # EventHub: Event Booking Platform
+🔗 **Live Project:** https://event-hub-pi-three.vercel.app/
 
 **EventHub** is a full-stack MERN (MySQL, Express, React, Node.js) application designed for browsing, booking, and managing events. It features a clean, modern user interface, a complete booking system, and a separate admin panel for managing events, users, and viewing platform statistics.
 
